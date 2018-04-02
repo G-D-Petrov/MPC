@@ -1,0 +1,7 @@
+.vscode
+build
+tags
+Ipopt-3.12.7
+.editorconfig
+.DS_Store
+.vs
